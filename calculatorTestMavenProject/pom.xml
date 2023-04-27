@@ -27,7 +27,7 @@
 				<configuration>
 					<suiteXmlFiles>
 						<!-- TestNG suite XML files -->
-						<suiteXmlFile>testng.xml</suiteXmlFile>
+						<suiteXmlFile>testngCalculations.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
@@ -129,9 +129,6 @@
     <artifactId>selenium-java</artifactId>
     <version>4.8.3</version>
 </dependency>
-
-
-
 
   </dependencies>
 </project>
